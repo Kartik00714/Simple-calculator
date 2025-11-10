@@ -31,11 +31,11 @@ python Simple\ calculator.py
 ```
 Enter first no.: 10
 Enter second no.: 5
-1 = Addition +
-2 = subtraction -
-3 = Multiplication *
-4 = Division /
-5 = Modulo %
+1 = Addition [+]
+2 = subtraction [-]
+3 = Multiplication [*]
+4 = Division [/]
+5 = Modulo [%]
 Enter the Number as per given operator: 3
 
 Output: 50
